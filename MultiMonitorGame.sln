@@ -5,6 +5,13 @@ VisualStudioVersion = 15.0.28307.1209
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiMonitorGame", "MultiMonitorGame.csproj", "{98461B9B-B6DF-44E1-8DC1-D215DBB61D81}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6B009CB9-2ACF-4A26-AE5B-7905F080C6DC}"
+	ProjectSection(SolutionItems) = preProject
+		changelog.txt = changelog.txt
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
