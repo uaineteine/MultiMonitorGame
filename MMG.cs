@@ -1,10 +1,10 @@
-﻿using Coord;
+﻿using Uaine.Coord;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
-using ScreenScraper;
+using Uaine.ScreenScraper;
 
-namespace MultiMonitorGame
+namespace Uaine.MultiMonitorGame
 {
     /// <summary>
     /// This is the main type for your game.
