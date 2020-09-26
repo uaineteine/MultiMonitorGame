@@ -1,4 +1,4 @@
-# Multi Monitor Game
+# Multi Monitor Game <img src="https://raw.githubusercontent.com/uaineteine/MultiMonitorGame/release/icon/MMG.png" alt="drawing" width="60"/>
 
 A game template for MonoGame that allows the window to be set to a monitor index from the constructor
 
