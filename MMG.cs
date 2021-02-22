@@ -16,6 +16,8 @@ namespace Uaine.MultiMonitorGame
         protected coord screensize = new coord(800, 600);
         protected KeyboardState ksold = Keyboard.GetState();
         protected KeyboardState ks = Keyboard.GetState();
+        protected MouseState msold = Mouse.GetState();
+        protected MouseState ms = Mouse.GetState();
         protected int monitorindex;
 
         public MMG(int monitor, bool fullscreen)
@@ -76,6 +78,7 @@ namespace Uaine.MultiMonitorGame
             base.Update(gameTime);
 
             ksold = ks;
+            msold = ms;
         }
 
         /// <summary>

@@ -30,7 +30,11 @@ See the [changelog](changelog.txt) for details.
 
 * **Daniel Stamer-Squair** - *UaineTeine*
 
-Copyright © 2020 Daniel Stamer-Squair
+Copyright © 2020-2021 Daniel Stamer-Squair
+
+## Donate
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C43PQ0I)
 
 ## License
 

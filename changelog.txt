@@ -1,1 +1,2 @@
-NO CHANGES AS OF YET
+1.0.1
+-Mouse states included with game class
