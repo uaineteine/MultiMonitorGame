@@ -22,7 +22,7 @@ public class Game1 : MMG
 * CoordLibrary [ [github](https://github.com/uaineteine/Coord) | [bitbucket](https://bitbucket.org/uaineteinestudio/coordlibrary/) ] by [UaineTeine](https://bitbucket.org/uaineteinestudio/) - A coordinate library with extra functions
 * ScreenInfo [ [github](https://github.com/uaineteine/ScreenInfo) | [bitbucket](https://bitbucket.org/uaineteinestudio/screeninfo) ] by [UaineTeine](https://bitbucket.org/uaineteinestudio/) - A C# .NET framework project to get screen information (size and position) based on the monitor index in a Windows environment
 
-## Version 1.0
+## Version 1.0.1
 
 See the [changelog](changelog.txt) for details.
 
